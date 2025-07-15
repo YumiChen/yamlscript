@@ -30,20 +30,20 @@ https://kccncna2024.sched.com/event/1i7qP).
 <p></p>
 
 * Programs written in YS
-  * [sbs](https://github.com/ingydotnet/sbs/blob/main/bin/sbs)
+    * [sbs](https://github.com/ingydotnet/sbs/blob/main/bin/sbs)
     Creates markdown gists to compare pairs of files side by side. Used to show
     differences between YS and Go templates in Helm.
-    * [Example HelmYS gist](
+      * [Example HelmYS gist](
       https://gist.github.com/ingydotnet/ff0638edf1bcb53c45161dce2d777f74)
-  * [yamllm](https://github.com/yaml/yamllm/blob/main/bin/yamllm.ys)
+    * [yamllm](https://github.com/yaml/yamllm/blob/main/bin/yamllm.ys)
     A command line multi LLM (Anthropic, OpenAI, Gemma) query tool
-  * [ys-vs-rc](
+    * [ys-vs-rc](
     https://github.com/ingydotnet/yamlscript-vs-rosetta/blob/main/bin/ys-vs-rc)
     Compares YS and Rosetta Code solutions to the same problem in many
     languages.
-    * [Example FizzBuzz gist](
+      * [Example FizzBuzz gist](
       https://gist.github.com/ingydotnet/9ece4af186c6a6dcfd589c446dab9b38)
-  * See [YS by Example](doc/examples.md) in the YS documentation for more
+    * See [YS by Example](doc/examples.md) in the YS documentation for more
     examples.
 
 

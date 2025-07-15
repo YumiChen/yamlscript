@@ -31,26 +31,26 @@ This page contains a links to programs written in YS.
 * [sbs](https://github.com/ingydotnet/sbs/blob/main/bin/sbs)
   Creates markdown gists to compare pairs of files "side by side".
   Used to show differences between YS and Go templates in Helm.
-  * [Example gist comparing Helm templates in YS and Go](
+    * [Example gist comparing Helm templates in YS and Go](
     https://gist.github.com/ingydotnet/ff0638edf1bcb53c45161dce2d777f74)
 * [ys-vs-rc](
   https://github.com/ingydotnet/yamlscript-vs-rosetta/blob/main/bin/ys-vs-rc)
   Compares YS and Rosetta Code solutions to the same problem in many languages.
-  * [Example gist comparing FizzBuzz in YS vs many other languages](
+    * [Example gist comparing FizzBuzz in YS vs many other languages](
     https://gist.github.com/ingydotnet/9ece4af186c6a6dcfd589c446dab9b38)
 * YS Repository Utilities
-  * [util/release-yamlscript](
+    * [util/release-yamlscript](
     https://github.com/yaml/yamlscript/blob/main/util/release-yamlscript)
     The utility that orchestrates the release of YS, including 12 binary builds
     and `libyamlscript.so` bindings for 11 programming languages.
-  * [util/brew-update](
+    * [util/brew-update](
     https://github.com/yaml/yamlscript/blob/main/util/brew-update)
     The utility that updates the Homebrew formula for YS.
-  * [util/mdys](
+    * [util/mdys](
     https://github.com/yaml/yamlscript/blob/main/util/mdys)
     Renders Markdown with embedded YS code blocks.
     Used for the YS documentation.
-  * [util/version-bump](
+    * [util/version-bump](
     https://github.com/yaml/yamlscript/blob/main/util/version-bump)
     Bumps the version of dozens of YS files in the repository at
     release time.

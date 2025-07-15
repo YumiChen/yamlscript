@@ -83,7 +83,7 @@ All the binary pre-built release files are
 * Expand the file with `$ tar xf <release-file>`.
 * Use `cd` to enter the release directory.
 * Run `make install` or `make install PREFIX=...`.
-  * Or just copy the binary file to the place where you want it.
+    * Or just copy the binary file to the place where you want it.
 
 
 ### Build a Release from Source

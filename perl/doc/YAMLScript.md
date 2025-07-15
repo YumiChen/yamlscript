@@ -21,15 +21,15 @@ YAMLScript is a functional programming language with a stylized YAML syntax.
 YAMLScript can be used for:
 
 * Writing new programs and applications
-  * Run with `ys file.ys`
-  * Or compile to binary executable with `ys -C file.ys`
+    * Run with `ys file.ys`
+    * Or compile to binary executable with `ys -C file.ys`
 * Enhancing ordinary YAML files with new functional magics
-  * Import parts of other YAML files to any node
-  * String interpolation including function calls
-  * Any other functionality you can dream up!
+    * Import parts of other YAML files to any node
+    * String interpolation including function calls
+    * Any other functionality you can dream up!
 * Writing reusable shared libraries
-  * High level code instead of C
-  * Bindable to almost any programming language
+    * High level code instead of C
+    * Bindable to almost any programming language
 
 YAMLScript should be a drop-in replacement for your YAML loader!
 
